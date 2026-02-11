@@ -7,9 +7,8 @@ Related blog post (e – one million digits):
 
 ## Contents
 
-- `src/e/` – computing **e** (series expansion)
-- `src/pi/` – computing **pi** (planned)
-- `docs/` – notes on numerical aspects (planned)
+- `e/` – computing **e** (series expansion)
+- `pi/` – computing **pi** (planned)
 
 ## License
 
