@@ -2,15 +2,11 @@
 
 The mathematical constant **e** is defined as the value of the exponential function at 1:
 
-\[
 e = e^1
-\]
 
 In this project, the constant is computed using the Maclaurin series expansion of the exponential function:
 
-\[
-e = \sum_{k=0}^{\infty} \frac{1}{k!}
-\]
+e = sum_{k=0}^∞ 1/k!
 
 ## Numerical Approach
 
