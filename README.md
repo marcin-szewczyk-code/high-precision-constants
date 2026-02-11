@@ -8,8 +8,8 @@ Related blog post (e – one million digits):
 ## Contents
 
 - `e/` – computing **e** (Taylor series expansion)
-- `pi/` – computing **pi** (Leibniz series, Ramanujan series, Chudnovsky algorithm — planned)
-- `latex-book/` – LaTeX book (methods and printable digits — planned)
+- `pi/` – computing **pi** (Leibniz series, Ramanujan series, Chudnovsky algorithm – planned)
+- `latex-book/` – LaTeX book (methods and printable digits – planned)
 
 ## License
 
